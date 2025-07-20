@@ -15,4 +15,9 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
+  // base: '/app/',  // Removed - now standalone landing page
+  build: {
+    outDir: 'dist',
+    assetsDir: 'assets',
+  }
 })

@@ -11,7 +11,7 @@
           <a href="/#features" class="nav-link" @click.prevent="scrollToSection('features')">ทำอะไรได้บ้าง</a>
           <a href="/#how-it-works" class="nav-link" @click.prevent="scrollToSection('how-it-works')">ใช้งานยังไง</a>
           <a href="mailto:support@billbotpoochuay.com" class="nav-link">ติดต่อเรา</a>
-          <a href="https://m.me/billbotpoochuay" class="nav-link nav-cta">ลองใช้ฟรี</a>
+          <a href="https://www.facebook.com/profile.php?id=61577264963553" class="nav-link nav-cta">ลองใช้ฟรี</a>
         </div>
         <button class="mobile-menu-btn" @click="toggleMobileMenu">
           <i class="fas fa-bars"></i>
@@ -42,7 +42,7 @@
             <ul class="footer-links">
               <li><a href="/#features" @click.prevent="scrollToSection('features')">ทำอะไรได้บ้าง</a></li>
               <li><a href="/#how-it-works" @click.prevent="scrollToSection('how-it-works')">ใช้งานยังไง</a></li>
-              <li><a href="https://m.me/billbotpoochuay">ลองใช้ฟรี</a></li>
+              <li><a href="https://www.facebook.com/profile.php?id=61577264963553">ลองใช้ฟรี</a></li>
             </ul>
           </div>
           <div class="footer-section">
@@ -56,7 +56,7 @@
           <div class="footer-section">
             <h4>ติดต่อเรา</h4>
             <ul class="footer-links">
-              <li><a href="https://m.me/billbotpoochuay">Facebook Messenger</a></li>
+              <li><a href="https://www.facebook.com/profile.php?id=61577264963553">Facebook Messenger</a></li>
               <li><a href="mailto:support@billbotpoochuay.com">support@billbotpoochuay.com</a></li>
             </ul>
           </div>
